@@ -25,10 +25,10 @@ El proyecto está compuesto por tres archivos principales:
 ## 📌 index.html
 Este archivo define la estructura de la página, incluyendo:
 
-Un campo de entrada (<input>) donde el usuario puede escribir nombres.
+Un campo de entrada donde el usuario puede escribir nombres.
 Un botón "Añadir" para agregar nombres a la lista.
 Un botón "Sortear amigo" que elige un nombre aleatorio.
-Una lista (<ul>) donde se muestran los nombres ingresados.
+Una lista donde se muestran los nombres ingresados.
 Un área donde se muestra el nombre del amigo secreto después del sorteo.
 
 ## 📌 style.css
